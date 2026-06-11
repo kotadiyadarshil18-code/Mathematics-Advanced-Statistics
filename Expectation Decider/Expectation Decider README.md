@@ -18,9 +18,7 @@ A comprehensive Jupyter notebook analyzing student exam performance through prob
 
 ## 📚 Table of Contents
 
-<div align="center">
-  <img width="300" height="300" alt="MuzekeGIF" src="https://github.com/user-attachments/assets/9ac5ad45-4830-4b30-b338-00a6fda5755f" />
-</div>
+<img width="150" height="150" alt="MuzekeGIF" src="https://github.com/user-attachments/assets/9ac5ad45-4830-4b30-b338-00a6fda5755f" align="left" style="margin-right: 20px;" />
 
 1. [Key Concepts](#-key-concepts)
 2. [Dataset Overview](#-dataset-overview)
@@ -29,6 +27,8 @@ A comprehensive Jupyter notebook analyzing student exam performance through prob
 5. [Key Findings](#-key-findings)
 6. [Installation & Usage](#-installation--usage)
 7. [Results Summary](#-results-summary)
+
+<br clear="left" />
 
 ---
 
