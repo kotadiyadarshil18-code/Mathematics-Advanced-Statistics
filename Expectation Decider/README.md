@@ -1,6 +1,6 @@
 # 📊 Expectation Decider - Advanced Statistics & Probability Analysis
 
-A comprehensive Jupyter notebook analyzing student exam performance through probability theory, statistical distributions, and Bayesian inference. This project applies real-world data to fundamental concepts in statistics.
+A comprehensive Jupyter notebook analyzing student exam performance through probability theory, statistical distributions, and Bayesian inference. This project applies real-world data to fundamental concepts in probability and statistics.
 
 ---
 
@@ -18,13 +18,13 @@ A comprehensive Jupyter notebook analyzing student exam performance through prob
 
 ## 📚 Table of Contents
 
-1. [Key Concepts](#key-concepts)
-2. [Dataset Overview](#dataset-overview)
-3. [Analysis Sections](#analysis-sections)
-4. [Mathematical Formulas](#mathematical-formulas)
-5. [Key Findings](#key-findings)
-6. [Installation & Usage](#installation--usage)
-7. [Results Summary](#results-summary)
+1. [Key Concepts](#-key-concepts)
+2. [Dataset Overview](#-dataset-overview)
+3. [Analysis Sections](#-analysis-sections)
+4. [Mathematical Formulas](#-mathematical-formulas)
+5. [Key Findings](#-key-findings)
+6. [Installation & Usage](#-installation--usage)
+7. [Results Summary](#-results-summary)
 
 ---
 
