@@ -389,11 +389,11 @@ Ensure `Expectation Decider Data.csv` is in the same directory as the notebook.
 
 ---
 
-## 🎬 Learn More
+## 🎬 Video
 
-Watch this comprehensive video tutorial to understand probability concepts and their real-world applications:
+Project Explanation 
 
-[![Watch Probability Theory Complete Guide](https://img.shields.io/badge/📹-Watch%20Probability%20Concepts-FF0000?style=for-the-badge)](https://drive.google.com/file/d/16ouTkWypFLCxFJsoBzUIxYAilybMcZWP/view?usp=sharing)
+[![click here for video](https://img.shields.io/badge/📹-Watch%20Probability%20Concepts-FF0000?style=for-the-badge)](https://drive.google.com/file/d/16ouTkWypFLCxFJsoBzUIxYAilybMcZWP/view?usp=sharing)
 
 ---
 
@@ -425,28 +425,16 @@ After completing this project, you will understand:
 
 ## 👤 Author
 
-**Your Name** | Mathematics & Advanced Statistics Enthusiast
+**Darshil Kotadiya** | Mathematics & Advanced Statistics Enthusiast
 
-📧 Email: [Your Email]  
+
 🔗 GitHub: [@kotadiyadarshil18-code](https://github.com/kotadiyadarshil18-code)
 
 ---
 
-## 📄 License
 
-This project is open source and available under the MIT License.
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- 📝 Add more examples
-- 🐛 Report issues
-- 💡 Suggest improvements
-- 📚 Add additional analysis
-
----
 
 ## ⭐ If This Helped You
 
@@ -454,9 +442,5 @@ Please consider giving this repository a star! ⭐ It motivates continued develo
 
 ---
 
-**Last Updated:** 2026-06-11  
-**Status:** ✅ Complete and Ready for Use
 
----
 
-> 📌 **Note:** This notebook is designed for educational purposes. It demonstrates key concepts in probability and statistics through practical application and real-world data analysis.
