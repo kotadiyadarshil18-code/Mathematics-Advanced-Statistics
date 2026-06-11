@@ -27,7 +27,10 @@ A comprehensive Jupyter notebook analyzing student exam performance through prob
 7. [Results Summary](#-results-summary)
 
 <div align="center">
+
+  
   <img width="150" height="150" alt="MuzekeGIF" src="https://github.com/user-attachments/assets/9ac5ad45-4830-4b30-b338-00a6fda5755f" />
+  
 </div>
 
 ---
