@@ -393,7 +393,7 @@ Ensure `Expectation Decider Data.csv` is in the same directory as the notebook.
 
 Watch this comprehensive video tutorial to understand probability concepts and their real-world applications:
 
-[![Watch Probability Theory Complete Guide](https://img.shields.io/badge/📹-Watch%20Probability%20Concepts-FF0000?style=for-the-badge)](https://www.youtube.com/results?search_query=probability+theory)
+[![Watch Probability Theory Complete Guide](https://img.shields.io/badge/📹-Watch%20Probability%20Concepts-FF0000?style=for-the-badge)](https://drive.google.com/file/d/16ouTkWypFLCxFJsoBzUIxYAilybMcZWP/view?usp=sharing)
 
 ---
 
