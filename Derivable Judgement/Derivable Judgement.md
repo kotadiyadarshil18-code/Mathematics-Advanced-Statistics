@@ -5,16 +5,15 @@
 ---
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset Description](#dataset-description)
-- [Hypotheses](#hypotheses)
-- [Statistical Methods](#statistical-methods)
-- [Results Summary](#results-summary)
-- [Key Findings](#key-findings)
-- [Video Resources](#video-resources)
-- [Study Materials](#study-materials)
-- [Installation & Usage](#installation--usage)
-- [Technologies Used](#technologies-used)
+- [Project Overview](#-project-overview)
+- [Dataset Description](#-dataset-description)
+- [Hypotheses](#-hypotheses)
+- [Statistical Methods](#-statistical-methods)
+- [Results Summary](#-results-summary)
+- [Key Findings](#-key-findings)
+- [Video Resources](#-video-resources)
+- [Study Materials](#-study-materials)
+- [Installation & Usage](#-installation--usage)
 
 ---
 
