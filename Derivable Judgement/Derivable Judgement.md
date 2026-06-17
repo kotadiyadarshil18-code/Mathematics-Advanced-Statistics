@@ -243,20 +243,6 @@ Explore these resources to understand the statistical concepts used in this proj
 ### Hypothesis Testing & Confidence Intervals
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=confidence+intervals+statistics)
 
-### t-Test Explained
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=independent+t+test+statistics)
-
-### Chi-Square Test Tutorial
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=chi+square+test+explained)
-
-### ANOVA Test (Analysis of Variance)
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=ANOVA+test+tutorial)
-
-### Correlation & Covariance
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=correlation+covariance+statistics)
-
-### Inferential Statistics Overview
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=inferential+statistics+complete)
 
 ---
 
@@ -383,35 +369,6 @@ r = Cov(X,Y) / (σₓ × σᵧ)
 📧 Email: kotadiyadarshil18@example.com  
 🐙 GitHub: [@kotadiyadarshil18-code](https://github.com/kotadiyadarshil18-code)
 
----
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## ⭐ Acknowledgments
-
-- 🏥 Healthcare dataset for real-world statistical analysis
-- 📚 Statistical methods from advanced coursework
-- 🔬 SciPy documentation for statistical functions
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest improvements
-- 🔄 Submit pull requests
-
----
-
-<div align="center">
-
-### ✨ Thank you for exploring this statistical analysis project! ✨
-
-**Made with ❤️ using Python & Statistics**
 
 </div>
