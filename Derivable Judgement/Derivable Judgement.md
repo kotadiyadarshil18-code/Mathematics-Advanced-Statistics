@@ -241,7 +241,7 @@ Pearson's r range: [-1, 1]
 Explore these resources to understand the statistical concepts used in this project:
 
 ### Video Link 
-[![Click Here For Video](https://drive.google.com/file/d/1puypV9I74IvJIYWn9Z8zhXz7vLD1YLkn/view?usp=sharing)
+[![Click Here For Video](https://img.shields.io/badge/Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1puypV9I74IvJIYWn9Z8zhXz7vLD1YLkn/view?usp=sharing)
 
 
 ---
