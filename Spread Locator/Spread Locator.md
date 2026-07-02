@@ -1161,7 +1161,9 @@ Watch the project demonstration video here:
 
 📺 **Video**
 
-👉 https://youtu.be/YOUR_VIDEO_LINK
+👉 ## 🎥 Project Video
+
+[▶️ Watch the Video](https://drive.google.com/file/d/1SfTIwlRLbuq-pSZqQPZB_3Ku4K8ceJvC/view?usp=sharing)
 
 # 👨‍💻 Author
 
