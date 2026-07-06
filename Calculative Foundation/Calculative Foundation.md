@@ -538,12 +538,12 @@ scikit-learn
 jupyter
 ```
 
-# 👨‍💻 Author ## Darshil Kotadiya
+# 👨‍💻 Author 
+## Darshil Kotadiya
 
 **Student | Python Developer | Data Analytics Enthusiast**
 
-**GitHub:**  
-https://github.com/kotadiyadarshil18-code
+
 
 ---
 
