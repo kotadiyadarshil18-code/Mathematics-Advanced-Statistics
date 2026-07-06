@@ -202,7 +202,7 @@ This project is a continuation of **Part A**.
 
 📂 **GitHub Repository (Part A)**
 
-👉 YOUR_PART_A_GITHUB_LINK
+👉 https://docs.google.com/document/d/1jWQw_ODoGXYQS7oq4cchb9jAz5xwBHjeyT3s7LapYcE/edit?usp=sharing
 
 Part A focuses on mathematical foundations and introductory statistical concepts, while Part B extends those concepts into probability, visualization, and advanced linear algebra applications.
 
@@ -214,7 +214,7 @@ Watch the complete explanation of **Part B** here.
 
 📺 **Project Video**
 
-👉 YOUR_VIDEO_LINK
+👉 https://drive.google.com/file/d/1SfTIwlRLbuq-pSZqQPZB_3Ku4K8ceJvC/view?usp=sharing
 
 The video includes:
 
